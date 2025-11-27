@@ -19,6 +19,10 @@ using namespace std::chrono;
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    //hahahaha
+    int t;
+    cin >> t;
+    while (t--) {
+
+    }
     return 0;
 }
